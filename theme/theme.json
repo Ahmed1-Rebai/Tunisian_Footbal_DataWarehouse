@@ -1,0 +1,19 @@
+{
+  "name": "Tunisia Red & White",
+  "dataColors": ["#E10600", "#C00000", "#F1F1F1", "#DDDDDD", "#A80000"],
+  "background": "#FFFFFF",
+  "foreground": "#E10600",
+  "tableAccent": "#E10600",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "color": [
+          { "solid": { "color": "#E10600" } }
+        ],
+        "fontSize": [
+          { "value": 12 }
+        ]
+      }
+    }
+  }
+}

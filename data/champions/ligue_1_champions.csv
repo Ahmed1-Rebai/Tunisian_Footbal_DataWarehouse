@@ -1,0 +1,119 @@
+Saison: ex 1955-56,Champion: club vainqueur,BeforeAfterIndependence: 'Before' ou 'After' selon la section,RunnerUp: vice-champion (d’après runner_up_championat.txt)
+Saison,Champion,BeforeAfterIndependence,RunnerUp
+1907-08,Racing Club (Tunis),Before,
+1908-09,Racing Club (Tunis),Before,
+1910-11,Racing Club (Tunis),Before,
+1911-12,Sporting Club (Ferryville),Before,
+1912-13,Sporting Club (Ferryville),Before,
+1913-14,Racing Club (Tunis),Before,
+1914-15,not played,Before,
+1915-16,not played,Before,
+1916-17,not played,Before,
+1917-18,not played,Before,
+1918-19,not played,Before,
+1919-20,Racing Club (Tunis),Before,
+1920-21,Racing Club (Tunis),Before,
+1921-22,Racing Club (Tunis),Before,
+1922-23,Stade Gaulois (Tunis),Before,
+1923-24,Stade Gaulois (Tunis),Before,
+1924-25,Racing Club (Tunis),Before,
+1925-26,Sporting Club (Tunis),Before,
+1926-27,Stade Gaulois (Tunis),Before,
+1927-28,Sporting Club (Tunis),Before,
+1928-29,Avant Garde (Tunis),Before,
+1929-30,US Tunisienne (Tunis),Before,
+1930-31,US Tunisienne (Tunis),Before,
+1931-32,Italia (Tunis),Before,
+1932-33,US Tunisienne (Tunis),Before,
+1933-34,Railway Sports (Sfax),Before,
+1934-35,Italia (Tunis),Before,
+1935-36,Italia (Tunis),Before,
+1936-37,Italia (Tunis),Before,
+1937-38,Savoia de La Goulette (Tunis),Before,
+1938-39,CS Gabésien (Gabès),Before,
+1939-40,not played,Before,
+1940-41,not played,Before,
+1941-42,Espérance Sportive (Tunis),Before,
+1942-43,not played,Before,
+1943-44,not played,Before,
+1944-45,CA Bizertin (Bizerte),Before,
+1945-46,CA Bizertin (Bizerte),Before,
+1946-47,Club Africain (Tunis),Before,
+1947-48,Club Africain (Tunis),Before,
+1948-49,CA Bizertin (Bizerte),Before,
+1949-50,ES Sahel (Sousse),Before,
+1950-51,CS Hammam-Lif,Before,
+1951-52,not played,Before,
+1952-53,Railway Sports (Sfax),Before,
+1953-54,CS Hammam-Lif,Before,
+1954-55,CS Hammam-Lif,Before,
+1955-56,CS Hammam-Lif,After,Étoile du Sahel
+1956-57,Stade Tunisien (Tunis),After,Espérance de Tunis
+1957-58,ES Sahel (Sousse),After,Espérance de Tunis
+1958-59,Espérance Sportive (Tunis),After,Étoile du Sahel
+1959-60,Espérance Sportive (Tunis),After,Stade Tunisien
+1960-61,Stade Tunisien (Tunis),After,Espérance de Tunis
+1961-62,Stade Tunisien (Tunis),After,Stade Soussien
+1962-63,ES Sahel (Sousse),After,Stade Tunisien
+1963-64,Club Africain (Tunis),After,Espérance de Tunis
+1964-65,Stade Tunisien (Tunis),After,Club Africain
+1965-66,ES Sahel (Sousse),After,CS Sfaxien
+1966-67,Club Africain (Tunis),After,Étoile du Sahel
+1967-68,Railway Sports (Sfax),After,Club Africain
+1968-69,CS Sfaxien (Sfax),After,Club Africain
+1969-70,Espérance Sportive (Tunis),After,Club Africain
+1970-71,CS Sfaxien (Sfax),After,Club Africain
+1971-72,ES Sahel (Sousse),After,Club Africain
+1972-73,Club Africain (Tunis),After,Étoile du Sahel
+1973-74,Club Africain (Tunis),After,Espérance de Tunis
+1974-75,Espérance Sportive (Tunis),After,Club Africain
+1975-76,Espérance Sportive (Tunis),After,Étoile du Sahel
+1976-77,JS Kairouan,After,Club Africain
+1977-78,CS Sfaxien (Sfax),After,Club Africain
+1978-79,Club Africain (Tunis),After,Stade Tunisien
+1979-80,Club Africain (Tunis),After,Espérance de Tunis
+1980-81,CS Sfaxien (Sfax),After,Club Africain
+1981-82,Espérance Sportive (Tunis),After,Club Africain
+1982-83,CS Sfaxien (Sfax),After,Club Africain
+1983-84,CA Bizertin (Bizerte),After,Stade Tunisien
+1984-85,Espérance Sportive (Tunis),After,Club Africain
+1985-86,ES Sahel (Sousse),After,Espérance de Tunis
+1986-87,ES Sahel (Sousse),After,Club Africain
+1987-88,Espérance Sportive (Tunis),After,CO Transports
+1988-89,Espérance Sportive (Tunis),After,Club Africain
+1989-90,Club Africain (Tunis),After,Espérance de Tunis
+1990-91,Espérance Sportive (Tunis),After,Club Africain
+1991-92,Club Africain (Tunis),After,CA Bizertin
+1992-93,Espérance Sportive (Tunis),After,JS Kairouan
+1993-94,Espérance Sportive (Tunis),After,Étoile du Sahel
+1994-95,CS Sfaxien (Sfax),After,Espérance de Tunis
+1995-96,Club Africain (Tunis),After,Étoile du Sahel
+1996-97,ES Sahel (Sousse),After,Espérance de Tunis
+1997-98,Espérance Sportive (Tunis),After,Club Africain
+1998-99,Espérance Sportive (Tunis),After,CA Bizertin
+1999-00,Espérance Sportive (Tunis),After,Étoile du Sahel
+2000-01,Espérance Sportive (Tunis),After,Étoile du Sahel
+2001-02,Espérance Sportive (Tunis),After,Étoile du Sahel
+2002-03,Espérance Sportive (Tunis),After,Étoile du Sahel
+2003-04,Espérance Sportive (Tunis),After,Étoile du Sahel
+2004-05,CS Sfaxien (Sfax),After,Étoile du Sahel
+2005-06,Espérance Sportive (Tunis),After,Étoile du Sahel
+2006-07,ES Sahel (Sousse),After,Club Africain
+2007-08,Club Africain (Tunis),After,Étoile du Sahel
+2008-09,Espérance Sportive (Tunis),After,Club Africain
+2009-10,Espérance Sportive (Tunis),After,Club Africain
+2010-11,Espérance Sportive (Tunis),After,Étoile du Sahel
+2011-12,Espérance Sportive (Tunis),After,CA Bizertin
+2012-13,CS Sfaxien (Sfax),After,Espérance de Tunis
+2013-14,Espérance Sportive (Tunis),After,CS Sfaxien
+2014-15,Club Africain (Tunis),After,Étoile du Sahel
+2015-16,ES Sahel (Sousse),After,Espérance de Tunis
+2016-17,Espérance Sportive (Tunis),After,Étoile du Sahel
+2017-18,Espérance Sportive (Tunis),After,Club Africain
+2018-19,Espérance Sportive (Tunis),After,Étoile du Sahel
+2019-20,Espérance Sportive (Tunis),After,CS Sfaxien
+2020-21,Espérance Sportive (Tunis),After,Étoile du Sahel
+2021-22,Espérance Sportive (Tunis),After,US Monastir
+2022-23,ES Sahel (Sousse),After,Espérance de Tunis
+2023-24,Espérance Sportive (Tunis),After,US Monastir
+2024-25,Espérance Sportive (Tunis),After,US Monastir

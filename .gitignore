@@ -1,0 +1,16 @@
+# Generated files
+warehouse_output/
+temp/
+*.pyc
+__pycache__/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log

@@ -1,0 +1,95 @@
+Era: Pre or Post independence,BeforeAfterIndependence: 'Before' or 'After' derived from Era,"Season: e.g., 1955–56",Winner: cup winner,Score: match score (with notes if present),RunnerUp: defeated finalist,Date: date or range,Venue: stadium (if available)
+Era,BeforeAfterIndependence,Season,Winner,Score,RunnerUp,Date,Venue
+Pre,Before,1922–23,Avant Garde,1–0,Racing Club,27 May 1923,
+Pre,Before,1923–24,Racing Club,2–1,Sporting Club de Ferryville,30 March 1924,
+Pre,Before,1924–25,Stade gaulois,2–0,Sporting Club,29 March 1925,
+Pre,Before,1925–26,Racing Club,2–1,Football Club de Bizerte,14 March 1926,Vélodrome Stadium
+Pre,Before,1926–27,Stade gaulois,2–0,Sporting Club,13 February 1927,Vélodrome Stadium
+Pre,Before,1929–30,US Tunisienne,2–1,Sporting Club,24 May 1930,Vélodrome Stadium
+Pre,Before,1930–31,US Tunisienne,Round-robin,Métlaoui Sports / US Béja,1931,Vélodrome Stadium
+Pre,Before,1931–32,Racing Club,1–1 (5–0 R),Sporting Club,1932,Vélodrome Stadium
+Pre,Before,1932–33,US Tunisienne,2–1 (a.e.t.),Stade gaulois,7 May 1933,Vélodrome Stadium
+Pre,Before,1933–34,US Tunisienne,1–1 (2–1 R),Vaillante-Sporting Club de Ferryville,1934,Vélodrome Stadium
+Pre,Before,1934–35,US Tunisienne,3–0,Sporting Club de Tunis,1935,Vélodrome Stadium
+Pre,Before,1935–36,Italia de Tunis,1–0,Jeunesse de Hammam Lif,14 June 1936,Tunis municipal stadium
+Pre,Before,1936–37,Stade gaulois,1–0,Espérance de Tunis,9 May 1937,Tunis municipal stadium
+Pre,Before,1937–38,Sporting Club,0–0 (2–0 R),Racing Club,9 May–15 May 1938,Tunis municipal stadium
+Pre,Before,1938–39,Espérance de Tunis,4–1,Étoile du Sahel,28 May 1939,Tunis municipal stadium
+Pre,Before,1941–42,US Ferryville,4–1,US Béja,28 April 1942,Vélodrome Stadium
+Pre,Before,1944–45,Olympique de Tunis,0–0 (1–0 R),Espérance de Tunis,1945,Vélodrome Stadium
+Pre,Before,1945–46,PFC Bizerte,3–1,Étoile du Sahel,1946,
+Pre,Before,1946–47,CS Hammam-Lif,2–1,Espérance de Tunis,4 May 1947,
+Pre,Before,1947–48,CS Hammam-Lif,2–0,PFC Bizerte,1948,Geo André Stadium
+Pre,Before,1948–49,CS Hammam-Lif,1–0,CA Bizertin,1949,Geo André Stadium
+Pre,Before,1949–50,CS Hammam-Lif,3–0,Étoile du Sahel,1950,Geo André Stadium
+Pre,Before,1950–51,CS Hammam-Lif,2–0,CA Bizertin,6 May 1951,Geo André Stadium
+Pre,Before,1953–54,CS Hammam-Lif,1–0,Étoile du Sahel,1954,Geo André Stadium
+Pre,Before,1954–55,CS Hammam-Lif,2–1,Sfax Railway Sports,1 May 1955,Geo André Stadium
+Post,After,1955–56,Stade Tunisien,3–1,Club Africain,10 June 1956,Chedly Zouiten Stadium
+Post,After,1956–57,Espérance de Tunis,2–1,Étoile du Sahel,31 March 1957,Chedly Zouiten Stadium
+Post,After,1957–58,Stade Tunisien,2–0,Étoile du Sahel,8 June 1958,Chedly Zouiten Stadium
+Post,After,1958–59,Étoile du Sahel,2–2 (3–2 R),Espérance de Tunis,1 May–31 May 1959,Chedly Zouiten Stadium
+Post,After,1959–60,Stade Tunisien,2–0,Étoile du Sahel,29 May 1960,Chedly Zouiten Stadium
+Post,After,1960–61,AS Marsa,0–0 (3–0 R),Stade Tunisien,23 April–28 May 1961,Chedly Zouiten Stadium
+Post,After,1961–62,Stade Tunisien,1–1 (1–0 R),Stade Soussien,13 May–10 June 1962,Chedly Zouiten Stadium
+Post,After,1962–63,Étoile du Sahel,0–0 (2–1 R),Club Africain,19 May 1963,Chedly Zouiten Stadium
+Post,After,1963–64,Espérance de Tunis,1–0,CS Hammam-Lif,10 May 1964,Chedly Zouiten Stadium
+Post,After,1964–65,Club Africain,0–0 (2–1 R),AS Marsa,16 May–6 June 1965,Chedly Zouiten Stadium
+Post,After,1965–66,Stade Tunisien,1–0,AS Marsa,22 May 1966,Chedly Zouiten Stadium
+Post,After,1966–67,Club Africain,2–0 (a.e.t.),Étoile du Sahel,1 June 1967,Chedly Zouiten Stadium
+Post,After,1967–68,Club Africain,3–2,Sfax Railway Sports,23 June 1968,El Menzah Stadium
+Post,After,1968–69,Club Africain,2–0,Espérance de Tunis,13 July 1969,El Menzah Stadium
+Post,After,1969–70,Club Africain,0–0 (0–0 R) (5–3 C),AS Marsa,7 June–20 June 1970,El Menzah Stadium
+Post,After,1970–71,CS Sfaxien,1–0,Espérance de Tunis,13 June 1971,El Menzah Stadium
+Post,After,1971–72,Club Africain,1–0 (a.e.t.),Stade Tunisien,9 July 1972,El Menzah Stadium
+Post,After,1972–73,Club Africain,1–0,AS Marsa,17 June 1973,El Menzah Stadium
+Post,After,1973–74,Étoile du Sahel,1–0,Club Africain,26 May 1974,El Menzah Stadium
+Post,After,1974–75,Étoile du Sahel,1–1 (3–0 R),El Makarem de Mahdia,8 June–28 June 1975,El Menzah Stadium
+Post,After,1975–76,Club Africain,1–1 (0–0 R) (3–1 C),Espérance de Tunis,13 June–4 July 1976,El Menzah Stadium
+Post,After,1976–77,AS Marsa,3–0,CS Sfaxien,25 June 1977,El Menzah Stadium
+Post,After,1978–79,Espérance de Tunis,0–0 (3–2 R),Sfax Railway Sports,17 June–24 June 1979,El Menzah Stadium
+Post,After,1979–80,Espérance de Tunis,2–0,Club Africain,24 May 1980,El Menzah Stadium
+Post,After,1980–81,Étoile du Sahel,3–1,Stade Tunisien,2 June 1981,El Menzah Stadium
+Post,After,1981–82,CA Bizertin,1–0,Club Africain,2 June 1982,El Menzah Stadium
+Post,After,1982–83,Étoile du Sahel,3–1 (a.e.t.),AS Marsa,5 June 1983,El Menzah Stadium
+Post,After,1983–84,AS Marsa,0–0 (5–4 p),CS Sfaxien,5 June 1984,El Menzah Stadium
+Post,After,1984–85,CS Hammam-Lif,0–0 (3–2 p),Club Africain,1 June 1985,El Menzah Stadium
+Post,After,1985–86,Espérance de Tunis,0–0 (4–1 p),Club Africain,15 June 1986,El Menzah Stadium
+Post,After,1986–87,CA Bizertin,1–0,AS Marsa,14 June 1987,El Menzah Stadium
+Post,After,1987–88,CS Transports,1–1 (5–4 p),Club Africain,19 June 1988,El Menzah Stadium
+Post,After,1988–89,Espérance de Tunis,2–0,Club Africain,24 December 1989,El Menzah Stadium
+Post,After,1989–90,AS Marsa,3–2,Stade Tunisien,28 June 1990,El Menzah Stadium
+Post,After,1990–91,Espérance de Tunis,2–1,Étoile du Sahel,8 December 1991,El Menzah Stadium
+Post,After,1991–92,Club Africain,2–1,Stade Tunisien,21 June 1992,El Menzah Stadium
+Post,After,1992–93,Olympique Béja,0–0 (3–1 p),AS Marsa,13 June 1993,El Menzah Stadium
+Post,After,1993–94,AS Marsa,1–0,Étoile du Sahel,26 June 1994,El Menzah Stadium
+Post,After,1994–95,CS Sfaxien,2–1,Olympique Béja,1 July 1995,El Menzah Stadium
+Post,After,1995–96,Étoile du Sahel,2–1,JS Kairouan,6 July 1996,El Menzah Stadium
+Post,After,1996–97,Espérance de Tunis,1–0,CS Sfaxien,21 June 1997,El Menzah Stadium
+Post,After,1997–98,Club Africain,1–1 (4–3 p),Olympique Béja,3 May 1998,El Menzah Stadium
+Post,After,1998–99,Espérance de Tunis,2–1 (a.e.t.),Club Africain,1 July 1999,El Menzah Stadium
+Post,After,1999–00,Club Africain,0–0 (4–3 p),CS Sfaxien,22 October 2000,El Menzah Stadium
+Post,After,2000–01,CS Hammam-Lif,1–0,Étoile du Sahel,6 July 2001,El Menzah Stadium
+Post,After,2002–03,Stade Tunisien,1–0,Club Africain,15 June 2003,Radès Olympic Stadium
+Post,After,2003–04,CS Sfaxien,2–0 (a.e.t.),Espérance de Tunis,20 November 2004,Radès Olympic Stadium
+Post,After,2004–05,Espérance de Zarzis,2–0,Espérance de Tunis,22 May 2005,Radès Olympic Stadium
+Post,After,2005–06,Espérance de Tunis,2–2 (5–4 p),Club Africain,12 May 2006,Radès Olympic Stadium
+Post,After,2006–07,Espérance de Tunis,2–1,CA Bizertin,20 May 2007,Radès Olympic Stadium
+Post,After,2007–08,Espérance de Tunis,2–1,Étoile du Sahel,6 July 2008,Radès Olympic Stadium
+Post,After,2008–09,CS Sfaxien,1–0 (a.e.t.),US Monastir,23 May 2009,Radès Olympic Stadium
+Post,After,2009–10,Olympique Béja,1–0,CS Sfaxien,22 May 2010,Radès Olympic Stadium
+Post,After,2010–11,Espérance de Tunis,1–0,Étoile du Sahel,25 July 2011,Radès Olympic Stadium
+Post,After,2011–12,Étoile du Sahel,1–0,CS Sfaxien,11 August 2013[a],Radès Olympic Stadium
+Post,After,2012–13,CA Bizertin,2–1,AS Marsa,15 June 2013,Chedly Zouiten Stadium
+Post,After,2013–14,Étoile du Sahel,1–0,CS Sfaxien,27 June 2014,Radès Olympic Stadium
+Post,After,2014–15,Étoile du Sahel,4–3,Stade Gabèsien,29 August 2015,Radès Olympic Stadium
+Post,After,2015–16,Espérance de Tunis,2–0,Club Africain,27 August 2016,Radès Olympic Stadium
+Post,After,2016–17,Club Africain,1–0,US Ben Guerdane,17 June 2017,Radès Olympic Stadium
+Post,After,2017–18,Club Africain,4–1,Étoile du Sahel,13 May 2018,Radès Olympic Stadium
+Post,After,2018–19,CS Sfaxien,0–0 (5–4 p),Étoile du Sahel,17 August 2019,Radès Olympic Stadium
+Post,After,2019–20,US Monastir,2–0,Espérance de Tunis,27 September 2020,Mustapha Jannet Stadium
+Post,After,2020–21,CS Sfaxien,0–0 (5–4 p),Club Africain,27 June 2021,Midoun Municipal Stadium
+Post,After,2021–22,CS Sfaxien,2–0,AS Marsa,10 September 2022,Hammadi Agrebi Stadium
+Post,After,2022–23,Olympique Béja,1–0,Espérance de Tunis,28 May 2023,Hammadi Agrebi Stadium
+Post,After,2023–24,Stade Tunisien,2–0,CA Bizertin,30 June 2024,Hammadi Agrebi Stadium
+Post,After,2024–25,Espérance de Tunis,1–0,Stade Tunisien,1 June 2025,Hammadi Agrebi Stadium
