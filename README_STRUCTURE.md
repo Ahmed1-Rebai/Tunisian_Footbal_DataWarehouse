@@ -64,6 +64,11 @@ tunisian_foot/
 │       └── validate_schema.py
 ├── theme/                     # Themes
 │   └── theme.json
+├── Dashboards/                # Data visualization dashboards
+│   ├── 1.png                  # Dashboard screenshot 1
+│   ├── 2.png                  # Dashboard screenshot 2
+│   ├── 3.png                  # Dashboard screenshot 3
+│   └── Demo.mp4               # Project demonstration video
 └── warehouse_output/          # Cleaned ETL results
     ├── D_City.csv
     ├── D_Competition.csv
